@@ -10,7 +10,7 @@ Aqui você encontrará todas as atividades desenvolvidas ao longo do curso, cada
 Cada *branch* deste repositório corresponde a uma atividade prática da disciplina. Abaixo está a lista das *branches* disponíveis:  
 
 ### 🌿 Branches  
-- `main` ➡️ **XX / XX** (XX)
+- `main` ➡️ **Repositório principal** (XX)
 - `factory_reflection_calc` ➡️ **Factory / Reflection** (Calculadora em Java utilizando Factory e reflection)  
 - *(Mais branches serão adicionadas conforme o avanço da disciplina!)*  
 
