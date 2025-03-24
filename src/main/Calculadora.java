@@ -1,6 +1,5 @@
 package src.main;
 import java.util.Scanner;
-
 import src.main.factory.OperacaoFactory;
 import src.main.model.Operacao;
 
@@ -27,7 +26,7 @@ public class Calculadora {
 
             System.out.println("Resultado: " + resultado);
         } catch (Exception e) {
-            System.out.println("Erro: " + e.getMessage());
+            System.out.println("Error: " + e.getMessage());
         }
     }
 }
